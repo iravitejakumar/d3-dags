@@ -1,0 +1,15 @@
+  circle.node+text {
+    text-anchor: middle;
+  }
+  text {
+    font-family: sans-serif;
+    pointer-events: none;
+  }
+    .slider {
+			position: absolute;
+    top: 800px;
+    right: 300px;
+    }
+    input {
+			width: 300px;
+    }
