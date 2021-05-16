@@ -1,5 +1,5 @@
 {
-  "name": "d3-dags",
+  "name": "@iravitejakumar/d3-dags",
   "version": "1.0.0",
   "description": "Library to create awesome d3-dags",
   "main": "arrow-chart.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "name": "@d3_dags",
-    "registry": "https://npm.pkg.github.com"
+    "name": "d3_dags",
+    "registry": "https://npm.pkg.github.com/iravitejakumar"
   },
   "repository": {
     "type": "git",
